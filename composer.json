@@ -17,5 +17,7 @@
   ],
   "require": {
     "calebporzio/sushi": "^2.5"
-  }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
