@@ -1,0 +1,21 @@
+{
+  "name": "trato-tech/laravel-eloquent-countries",
+  "autoload": {
+    "psr-4": {
+      "TratoTech\\LaravelEloquentCountries\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "PedroTrato",
+      "email": "pedro.henrique@trato.tech"
+    },
+    {
+      "name": "leonardofilhogm",
+      "email": "leonardo@trato.tech"
+    }
+  ],
+  "require": {
+    "calebporzio/sushi": "^2.5"
+  }
+}
